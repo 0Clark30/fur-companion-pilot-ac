@@ -35,8 +35,11 @@ What are the steps required to install your project? Provide a step-by-step desc
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
 [deployed](https://0clark30.github.io/fur-companion-pilot-ac/)
+
 [github](https://github.com/0Clark30/fur-companion-pilot-ac)
+
 ![alt](assets/images/Fur-companion-pilot-home.png)
 ![alt](assets/images/Fur-companion-pilot-Cat-result.png)
 ![alt](assets/images/Fur-companion-pilot-Dog-result.png)
